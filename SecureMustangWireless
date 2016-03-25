@@ -1,5 +1,5 @@
 Description="SecureMustangWireless"
-Interface=<wireless_interface_name(type ifconfig(or ip link) to check)>
+Interface=<wireless_interface_name(run ifconfig(or ip link) to check)>
 Connection='wireless'
 Security=wpa-configsection
 IP=dhcp
